@@ -47,8 +47,8 @@ h2{
 p{
     text-align: justify;
     margin: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%;
     max-width: 600px;
     min-width: 300px;
     background-color: rgb(255, 255, 255);
@@ -67,16 +67,15 @@ p{
 
 
 h3{
+    position: sticky;
     background-color: #5e9188;
     border-radius: 10px;
     color: white;
     padding: 5px 10px;
     max-width: max-content;
-    margin-left: 30px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.255);
-    margin-left: 25%;
-    display: inline;
-    
+    left: 27%;
+    text-align: center;
 }
 img {
     max-width: 30%;
@@ -119,9 +118,9 @@ footer>h3{
    
 }
 ul{
-display: inline-block;
-margin-left: 30%;
-margin-top: 20px;
+    display: inline-block;
+    position: sticky;
+    left: 30%;
 }
 li{
     color: white;
@@ -141,7 +140,7 @@ a{
     text-decoration: none;
 }
 a:hover{
-    color:#abfff0;
+    color:#000000;
 
 
     
