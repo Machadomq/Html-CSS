@@ -39,11 +39,12 @@ section{
     padding-top: 1%;
     padding-bottom: 1%;
     font-size: 17px;
+    box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, 0.488);
 }
 
 p{
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
     text-align: justify;
     
 }
@@ -73,7 +74,8 @@ p{
     background-color: rgba(0, 0, 0, 0.552);
     color: white;
     border-radius: 10px;
-    padding: 1%;
+    padding: 2%;
+
 }
 footer{
     background-color: #262125;
@@ -115,4 +117,15 @@ a:hover{
 
 h2{
     margin-left: 5%;
+    color:rgb(93, 53, 0) ;
+}
+strong{
+    color:rgb(93, 53, 0) ;
+}
+
+.claro{
+    color: #D98B48;
+}
+.claro2{
+    color: white;
 }
