@@ -13,6 +13,6 @@ thead{
     border: 1px solid black;
 }
 
-td{
+tbody>tr>td{
     border: 1px solid black;
 }
