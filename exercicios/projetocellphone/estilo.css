@@ -1,0 +1,65 @@
+
+
+
+body , html{
+    height: 98vh;
+    width: 98vw;
+    background-color: rgb(166, 156, 189);
+}
+
+
+
+#iphone{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-size: 100%;
+    height: 454px;
+    width: 300px;
+
+
+}
+
+
+iframe{
+    position: absolute;
+    border-radius: 20px;
+    z-index: 0;
+}
+
+#tela{
+    top: 12px;
+    left: 55px;
+    width: 192px;
+    height: 414px;
+}
+
+.cell{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+    width: 300px;
+    z-index: 0;
+}
+
+section > a > img{
+    height: 50px;
+    margin: 10px;
+    transition: height 1s ease 0s;
+
+}
+
+section> a > img:hover{
+    height: 90px;
+}
+
+.app{
+    text-align: right;
+    padding-top: 10%;
+    
+
+}
+
+
