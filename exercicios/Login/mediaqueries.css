@@ -1,0 +1,42 @@
+
+
+
+
+@media screen and (min-width:768px) and (max-width:992px){
+
+    
+    #login{
+        width: 80vw
+
+    }
+
+    #imagem{
+        float: left;
+        width: 30%;
+        height: 100%;
+    }
+    #fomulario{
+        float: right;
+        width: 65%;
+
+    }}
+
+@media screen and (min-width:992px)
+    {
+       
+        #login{
+            width: 950px;
+            
+        }
+        #imagem{
+            float: right;
+            width: 50%;
+            height: 100%
+        }
+        #formulario{
+            float: left;
+            width: 50%;
+        }
+    }
+
+    
